@@ -19,6 +19,11 @@ git clone https://github.com/theashu02/Poke_Dex.git
 cd Hacktoberfest2022
 ```
 
+- Install the Dependencies
+```terminal
+npm install
+```
+
 - Create a new Branch
 
 ```markdown
