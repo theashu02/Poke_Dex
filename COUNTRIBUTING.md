@@ -1,9 +1,7 @@
-# Hacktoberfest-2023
-
 # Contribution Rules📚:
 
 - Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works.
+- Styling/code can be pretty, ugly or stupid, big or small as long as it works
 - Try to keep pull requests small to minimize merge conflicts
 
 
@@ -18,7 +16,7 @@ git clone https://github.com/theashu02/Poke_Dex.git
 ```
 - Navigate to project directory.
 ```terminal
-cd HacktoberFest-23
+cd Hacktoberfest2022
 ```
 
 - Create a new Branch
@@ -64,19 +62,3 @@ git merge upstream/master
 ```
 
 This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
-
-For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
-
-# FAQs (Frequently Asked Questions)
-
-- Who all can contribute?
-  - Anyone with a github account and who is signed up for
-[hacktoberfest](https://hacktoberfest.com/) :)
-- Are you getting paid for this?
-  - Sadly no. But I think we should. This is 100% unofficial and I do it for fun, fame and glory.
-- Who are you and why are you doing this?
-  - I am Ravi & I am doing this because I love Open Source and Hacktoberfest. I want to make it easier for people to get started with Hacktoberfest and Open Source.
-- How many pull request (PR) must be made?
-  - 4
-- What is the event for?
-  - For the open source community engagement and learn how to contribute to open source.
