@@ -19,5 +19,6 @@ export interface Pokemon {
                 front_default: string,
             }
         }
-    }
+    },
+    order: number
 }
