@@ -41,7 +41,7 @@ export default function PokemonDetailsPage() {
         {pokemon === null && <p>Pokemon not found</p>}
         {pokemon && (
           <>
-            <h1 className="text-center text-capitalize">{pokemon.name}</h1>
+            <h1 className="text-center text-capitalize">{pokemon.name}  #{pokemon.order}</h1>
             <Image
               src={pokemon.sprites.other["official-artwork"].front_default}
               alt={"Pokemon: " + pokemon.name}
